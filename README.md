@@ -23,3 +23,13 @@ This project implements the k-means clustering algorithm from scratch and applie
 - The highest-priced cluster consisted of a very small number of listings concentrated in the densest urban area
 - Lower-priced clusters showed wider geographic dispersion and greater room-type diversity
 - Spatial visualisation revealed strong central clustering of high-price listings
+
+## Dataset
+
+The dataset used in this project is sourced from Inside Airbnb.
+
+Due to file size and licensing considerations, the full dataset is not included in this repository.
+A small sample is provided to illustrate the data structure.
+
+You can download the full Tokyo Airbnb listings dataset from:
+https://insideairbnb.com/get-the-data/
